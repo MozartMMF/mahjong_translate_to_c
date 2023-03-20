@@ -1,4 +1,4 @@
-An translate to C from https://github.com/MozartMMF/mahjong_translate_to_c.
+
 
 To play, you must needs to have gcc compiler installed on your machine and follow those steps:
 
